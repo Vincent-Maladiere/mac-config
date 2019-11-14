@@ -16,6 +16,5 @@ which pip3
 pip install --upgrade pip
 pip3 install --upgrade pip
 
-pip install --upgrade virtualenv
-pip3 install --upgrade virtualenv
-pip install --upgrade awscli
+pip install --upgrade pipenv
+pip3 install --upgrade pipenv

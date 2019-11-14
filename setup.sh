@@ -9,3 +9,8 @@ echo "done" >> ~/.zshrc
 
 which brew
 brew bundle
+
+./python.sh
+./git.sh
+./vs-code.sh
+

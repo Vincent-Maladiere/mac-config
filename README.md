@@ -2,6 +2,6 @@
 
 This repo as only for vocation to automate a mac setup
 
-# usage
+## usage
 
 `./setup.sh` and voila.

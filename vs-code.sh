@@ -1,5 +1,4 @@
 code --install-extension eamodio.gitlens
-code --install-extension mauve.terraform
 code --install-extension ms-ceintl.vscode-language-pack-fr
 code --install-extension ms-python.python
 code --install-extension PeterJausovec.vscode-docker
